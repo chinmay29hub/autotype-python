@@ -1,2 +1,2 @@
 # autotype-python
-# OUTPUT : [Screenshot](auto.gif)
+# OUTPUT : ![Screenshot](auto.gif)
